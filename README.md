@@ -20,6 +20,8 @@
      - Cart page with everything the user added to the cart, each product separately with
        its image, title, price, quantity, and total price for each product, ability to
        remove any product, and total price for everything in cart.
+     - Admin panel part:
+       + contains two pages, one for adding new products, and the other for listing all products.
      - About page displaying all products.
      - Contact Us page that contains a form with inputs for name, email, and message for user
        to contact us.
